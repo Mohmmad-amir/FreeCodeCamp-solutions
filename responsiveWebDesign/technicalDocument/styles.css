@@ -1,0 +1,9 @@
+@media (min-width: 769px) and (max-width: 1199px) {
+    #main-doc {
+        width: 675px;
+    }
+
+    .main-section {
+        width: 633px;
+    }
+}
