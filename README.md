@@ -20,7 +20,7 @@
             Basic JavaScript
         </td>
         <td>
-            https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-01.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-01.js">Basic javascript</a>
         </td>
     </tr>
         <tr>
@@ -31,7 +31,7 @@
             ES6
         </td>
         <td>
-        https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-02.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-02.js">ES6</a>
         </td>
     </tr>
         <tr>
@@ -42,7 +42,7 @@
             Regular Expressions
         </td>
         <td>
-        https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-03.js
+           <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-03.js">Regular Expressions</a>
         </td>
     </tr>
         <tr>
@@ -53,7 +53,7 @@
             Debugging
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-04.js
+           <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-04.js">Debugging</a>
         </td>
     </tr>
          <tr>
@@ -64,7 +64,7 @@
            Basic Data Structures
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-05.js
+                <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-05.js">Basic Data Structures</a>
         </td>
     </tr>
        <tr>
@@ -75,7 +75,7 @@
            Basic Algorithm Scripting
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-06.js
+            <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-06.js">Basic Algorithm Scripting</a>
         </td>
     </tr>
            <tr>
@@ -86,7 +86,7 @@
            Object Oriented Programming
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-07.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-07.js">Object Oriented Programming</a>
         </td>
     </tr>
            <tr>
@@ -97,7 +97,7 @@
            Functional Programming
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-08.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-08.js">Functional Programming</a>
         </td>
     </tr>
            <tr>
@@ -108,12 +108,11 @@
            Intermediate Algorithm Scripting
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-09.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/FCC-js-tutorial-part-09.js">Intermediate Algorithm Scripting</a>
         </td>
     </tr>
 </tbody>
 </table>
-
 
 <h3>Here is the javascript course <strong>Projects</strong> list</h3>
 
@@ -132,7 +131,7 @@
             Palindrome Checker
         </td>
         <td>
-            https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/palindrome.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/palindrome.js">Palindrome Checker</a>
         </td>
     </tr>
         <tr>
@@ -143,7 +142,7 @@
             Roman Number Converter
         </td>
         <td>
-        https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/romanNumber.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/romanNumber.js">Roman Number Converter</a>
         </td>
     </tr>
         <tr>
@@ -154,7 +153,7 @@
             Caesars Cipher
         </td>
         <td>
-        https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/caesars.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/caesars.js">Caesars Cipher</a>
         </td>
     </tr>
         <tr>
@@ -165,7 +164,7 @@
             Telephone Number Validator
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/telephoneNumber.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/telephoneNumber.js">Telephone Number Validator</a>
         </td>
     </tr>
          <tr>
@@ -176,7 +175,7 @@
            Case Register
         </td>
         <td>
-       https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/cashRegister.js
+        <a href="https://github.com/Mohmmad-amir/FreeCodeCamp-solutions/blob/main/JavaScript%20Algorithms/projects/cashRegister.js">Case Register</a>
         </td>
     </tr>
 </tbody>
