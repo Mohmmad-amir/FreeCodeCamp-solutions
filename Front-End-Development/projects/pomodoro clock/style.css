@@ -1,0 +1,142 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #b71c1c;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: 0;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 450px;
+  min-height: 650px;
+  border-radius: 16px;
+  border-radius: 26px;
+  background: linear-gradient(145deg, #c41e1e, #a51919);
+  box-shadow: 5px 5px 10px #a31919, -5px -5px 10px #cb1f1f;
+}
+
+#container h4 {
+  color: #b71c1c;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+  color: #f3e5f5;
+}
+
+#timer-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #f3e5f5;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background: linear-gradient(-145deg, #c41e1e, #a51919);
+  box-shadow: 5px 5px 9px #a71919, -5px -5px 9px #c71f1f;
+}
+
+#break-label {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+#break {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 30px;
+  font-weight: 600;
+  align-items: center;
+}
+
+#session-label {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+#session {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 30px;
+  align-items: center;
+  font-weight: 600;
+}
+
+#time-left {
+  font-size: 90px;
+  font-weight: 700;
+}
+
+#start_stop {
+  font-size: 50px;
+  cursor: pointer;
+  border-radius: 50%;
+  background: linear-gradient(-145deg, #c41e1e, #a51919);
+  box-shadow: 6px 6px 11px #9d1818, -6px -6px 11px #d12020;
+  margin-right: 10px;
+}
+
+#reset {
+  font-size: 50px;
+  cursor: pointer;
+  border-radius: 50%;
+  background: linear-gradient(-145deg, #c41e1e, #a51919);
+  box-shadow: 6px 6px 11px #9d1818, -6px -6px 11px #d12020;
+  margin-left: 10px;
+}
+
+#break-increment {
+  cursor: pointer;
+}
+
+#break-decrement {
+  cursor: pointer;
+}
+
+#session-increment {
+  cursor: pointer;
+}
+
+#session-decrement {
+  cursor: pointer;
+}
+
+#title {
+  margin: 40px;
+  min-width: 85%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  background-color: #ef5350;
+}
